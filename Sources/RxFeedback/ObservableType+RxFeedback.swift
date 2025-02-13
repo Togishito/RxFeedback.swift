@@ -9,7 +9,7 @@
 import RxCocoa
 import RxSwift
 
-public typealias Observable = RxSwift.Observable 
+public typealias Observable = RxSwift.Observable
 
 extension ObservableType where Element == Any {
     /// Feedback loop
